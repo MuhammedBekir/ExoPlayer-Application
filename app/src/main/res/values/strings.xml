@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+    <string name="hls_videos">HLS videos</string>
+    <string name="dash_videos">DASH videos</string>
+    <string name="subtitled_videos">Subtitled videos</string>
+    <string name="click_to_watch_subtitled">click to watch Subtitled Videos</string>
+    <string name="click_to_watch_dash_videos">click to watch DASH videos</string>
+    <string name="click_to_watch_hls_videos">click to watch HLS videos</string>
+    <string name="noTranslations">No subtitles for this video are currently available</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExoPlayer</string>
+    <string name="hls_videos">HLS videoları </string>
+    <string name="dash_videos">DASH videoları</string>
+    <string name="subtitled_videos">Altyazılı videolar</string>
+    <string name="click_to_watch_subtitled">Altyazılı Videoları izlemek için tıklayın</string>
+    <string name="click_to_watch_dash_videos">DASH videolarını izlemek için tıklayın</string>
+    <string name="click_to_watch_hls_videos">HLS videolarını izlemek için tıklayın</string>
+    <string name="noTranslations">Bu video için şu anda altyazı yok</string>
+</resources>
